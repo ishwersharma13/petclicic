@@ -1,0 +1,56 @@
+{
+  "pet": [
+    {
+      "id": 1,
+      "name": "ishwer",
+      "customer": "dog",
+      "email": "ishwer@gmail"
+    },
+    {
+      "id": 2,
+      "name": "rohit",
+      "customer": "cat",
+      "email": "rohit@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "lalit",
+      "customer": "giraf",
+      "email": "lalit@gmail.com"
+    },
+    {
+      "name": "atul",
+      "email": "atul@gmail.com",
+      "customer": "lion",
+      "id": 4
+    },
+    {
+      "name": "meghmal",
+      "email": "meghml@gmail.com",
+      "customer": "snake",
+      "id": 5
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "name": "washing",
+      "price": "44"
+    },
+    {
+      "id": 2,
+      "name": "grooming",
+      "price": "12300"
+    },
+    {
+      "name": "feeding",
+      "price": "2345",
+      "id": 3
+    },
+    {
+      "name": "medication",
+      "price": "23",
+      "id": 4
+    }
+  ]
+}
